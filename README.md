@@ -8,9 +8,8 @@ data and all code in BaiduYun: [@草依山](http://weibo.com/ihubo)
 
 ##关于作者
 
-```javascript
+javascript
 var ihubo = {
   nickName  : "WilliamJie",
   site : "https://github.com/Willamjie"
 }
-```
